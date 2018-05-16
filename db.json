@@ -1,6 +1,11 @@
 [{
 "From":"DFW",
-"To":"NRK",
+"To":"BOM",
 "Time":"8:00AM",
-"BaseRate":200
+"BaseRate":900
+},{
+"From":"DFW",
+"To":"BOM",
+"Time":"9:00AM",
+"BaseRate":900
 }]
